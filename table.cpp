@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-int m,a[1011],s;
+int m,a[10011],s;
 using namespace std;
 int work(int x)
 {
